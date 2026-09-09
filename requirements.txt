@@ -1,0 +1,6 @@
+streamlit
+numpy
+pandas
+scikit-learn 
+
+# to install the libraries we use python -m pip install -r requirements.txt
